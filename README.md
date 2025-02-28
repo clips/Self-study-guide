@@ -1,5 +1,5 @@
 # Self-study-guide
-## Programming: Python, Conda, environments
+## Programming
 -	AI python for beginners: https://www.deeplearning.ai/short-courses/ai-python-for-beginners/ 
 -	Environments with conda: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html 
 -	Data Analysis with Python
