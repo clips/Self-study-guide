@@ -1,6 +1,6 @@
 # Self-study-guide
 
-## General:
+## Algorithms in general
 -	Bite -sized overview of different algorithms: https://www.youtube.com/watch?v=E0Hmnixke2g&ab_channel=InfiniteCodes 
 ## Linear Algebra for Machine Learning
 - Article: https://www.geeksforgeeks.org/ml-linear-algebra-operations/ 
