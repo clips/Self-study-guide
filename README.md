@@ -12,7 +12,7 @@
 ## Neural networks
 -	Course: https://www.deeplearning.ai/courses/deep-learning-specialization/ 
 -	YouTube playlist: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown 
--	Notebooks: https://udlbook.github.io/udlbook/ 
+-	(Notebooks: https://udlbook.github.io/udlbook/)
 -	Interesting talk from Andrej Karpathy: https://www.youtube.com/watch?v=VMj-3S1tku0&ab_channel=AndrejKarpathy 
 ## Programming: Python, Conda, environments
 -	AI python for beginners: https://www.deeplearning.ai/short-courses/ai-python-for-beginners/ 
