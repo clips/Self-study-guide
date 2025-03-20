@@ -6,7 +6,7 @@ Good luck, and have fun learning!
 ## General Resources
 ### Deeplearning.ai
 [Deeplearning.ai](https://www.deeplearning.ai/) is a useful learning platform that offers a wide variety of courses related to machine, deep learning, and specializations in those fields.
-They offer [short](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses) and [long](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Courses) courses. Browse through these courses and see which ones could be useful for your thesis!
+They offer [short](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses) and [long](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Courses) courses. You can filter by course length and difficulty. Browse through these courses and see which ones could be useful for your thesis!
 
 Deeplearning.ai also offers a newsletter (The Batch) that keeps you up to date with recent DL advancements.
 
@@ -41,7 +41,7 @@ Sci-kit learn is the most commonly used Python package for implementing these al
 -    https://scikit-learn.org/1.4/tutorial/index.html
 
 ## Neural Networks
-The following course and videos discuss neural networks.
+The following course and videos discuss how neural networks work and how they are implemented in Python.
 -	Course (paid): https://www.deeplearning.ai/courses/deep-learning-specialization/ 
 -	YouTube playlist: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown 
 -	Interesting talk from Andrej Karpathy: https://www.youtube.com/watch?v=VMj-3S1tku0&ab_channel=AndrejKarpathy 
