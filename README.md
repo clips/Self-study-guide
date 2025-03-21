@@ -33,6 +33,7 @@ The following courses and video discuss the basics of ML algorithms and how to i
 -	Course (paid): https://www.deeplearning.ai/courses/machine-learning-specialization/
 -	Course (free): https://developers.google.com/machine-learning/crash-course
 -	Video (not necessarily text-based ML): https://www.youtube.com/watch?v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org
+  
 Sci-kit learn is the most commonly used Python package for implementing these algorithms. They also offer tutorials on how to do so:
 -    https://scikit-learn.org/1.4/tutorial/index.html
 
