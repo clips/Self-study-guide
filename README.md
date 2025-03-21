@@ -15,13 +15,12 @@ Deeplearning.ai also offers a newsletter (The Batch) that keeps you up to date w
 
 ## Programming
 The following courses take you back to the basics of programming and some best practices.
--	**AI python for beginners**. This course looks back on the most important aspects of the programming bootcamp.
-    -   https://www.deeplearning.ai/short-courses/ai-python-for-beginners/ 
--	**Environments with Conda**. Deploying environments is essential for larger Python projects. The following documentation dives into what environments are and how you can optimally set one up.
-    - https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html 
--    **Data Analysis with Python**. The following courses dive into data processing and visualization:
-    - Paid (7 day free trial): https://www.coursera.org/learn/data-analysis-with-python 
+-	**AI python for beginners**. This course looks back on the most important aspects of the programming bootcamp: https://www.deeplearning.ai/short-courses/ai-python-for-beginners/ 
+-	**Environments with Conda**. Deploying environments is essential for larger Python projects. The following documentation dives into what environments are and how you can optimally set one up: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+-	**Data Analysis with Python**. The following courses dive into data processing and visualization.
+    - Paid (7 day free trial): https://www.coursera.org/learn/data-analysis-with-python
     - Free: https://www.freecodecamp.org/learn/data-analysis-with-python/
+-    **Command Line for Beginners**. This tutorial walks you through a few basic commands: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
   
 ## Linear Algebra for Machine Learning
 The following article and videos offer some more theoretical insight into ML algorithms.
