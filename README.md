@@ -23,9 +23,6 @@ The following courses take you back to the basics of programming and some best p
     - Paid (7 day free trial): https://www.coursera.org/learn/data-analysis-with-python 
     - Free: https://www.freecodecamp.org/learn/data-analysis-with-python/
   
-## Algorithms in General
--	Bite -sized overview of different algorithms: https://www.youtube.com/watch?v=E0Hmnixke2g&ab_channel=InfiniteCodes
-  
 ## Linear Algebra for Machine Learning
 The following article and videos offer some more theoretical insight into ML algorithms.
 - Article: https://www.geeksforgeeks.org/ml-linear-algebra-operations/ 
@@ -39,6 +36,8 @@ The following courses and video discuss the basics of ML algorithms and how to i
 -	Video (not necessarily text-based ML): https://www.youtube.com/watch?v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org
 Sci-kit learn is the most commonly used Python package for implementing these algorithms. They also offer tutorials on how to do so:
 -    https://scikit-learn.org/1.4/tutorial/index.html
+
+The following video summarizes all ML algorithms: https://www.youtube.com/watch?v=E0Hmnixke2g&ab_channel=InfiniteCodes
 
 ## Neural Networks
 The following course and videos discuss how neural networks work and how they are implemented in Python.
