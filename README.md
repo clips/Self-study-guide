@@ -6,7 +6,7 @@ Good luck, and have fun learning!
 ## General Resources
 ### Deeplearning.ai
 [Deeplearning.ai](https://www.deeplearning.ai/) is a useful learning platform that offers a wide variety of courses related to machine, deep learning, and specializations in those fields.
-They offer [short](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses) and [long](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Courses) courses. You can filter by course length and difficulty. Browse through these courses and see which ones could be useful for your thesis!
+They offer [short](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses) and [long](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Courses) courses. You can filter by course length and difficulty. The courses themselves consist of videos and notebooks that walk you through the material. Browse through these courses and see which ones could be useful for your thesis!
 
 Deeplearning.ai also offers a newsletter (The Batch) that keeps you up to date with recent DL advancements.
 
