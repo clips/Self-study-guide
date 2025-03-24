@@ -26,7 +26,7 @@ The following courses take you back to the basics of programming and some best p
 The following article and videos offer some more theoretical insight into ML algorithms.
 - Article: https://www.geeksforgeeks.org/ml-linear-algebra-operations/ 
 - Video : https://www.freecodecamp.org/news/learn-linear-algebra-for-machine-learning/ 
-- YouTube Playlist: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown
+- YouTube Playlist for more details about each algorithm: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown
   
 ## Machine Learning
 The following courses and video discuss the basics of ML algorithms and how to implement them in Python.
@@ -37,7 +37,7 @@ The following courses and video discuss the basics of ML algorithms and how to i
 Sci-kit learn is the most commonly used Python package for implementing these algorithms. They also offer tutorials on how to do so:
 -    https://scikit-learn.org/1.4/tutorial/index.html
 
-The following video summarizes all ML algorithms: https://www.youtube.com/watch?v=E0Hmnixke2g&ab_channel=InfiniteCodes
+The following video neatly summarizes all ML algorithms: https://www.youtube.com/watch?v=E0Hmnixke2g&ab_channel=InfiniteCodes
 
 ## Neural Networks
 The following course and videos discuss how neural networks work and how they are implemented in Python.
